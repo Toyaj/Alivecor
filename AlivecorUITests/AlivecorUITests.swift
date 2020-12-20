@@ -2,7 +2,7 @@
 //  AlivecorUITests.swift
 //  AlivecorUITests
 //
-//  Created by MyWork on 17/12/20.
+//  Created by Toyaj Nigam on 17/12/20.
 //
 
 import XCTest

@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Alivecor
 //
-//  Created by MyWork on 17/12/20.
+//  Created by Toyaj Nigam on 20/12/20.
 //
 
 import UIKit
